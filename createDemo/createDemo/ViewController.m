@@ -21,7 +21,7 @@
 }
 #pragma mark
 -(void)addUI{
-    
+    self.view.backgroundColor = [UIColor orangeColor];
 }
 
 
